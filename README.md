@@ -15,3 +15,4 @@ Visualizing trends using bar charts, line charts, and tables
 I’m actively improving my skills in Excel, Power BI, and SQL, and I’m open to opportunities in the data analytics field.
 🙏 Special thanks to Codebasics, Dhaval Patel Sir, and Hemanand Vadivel Veidevel Sir for providing such practical learning datasets resources.
 #PowerBI #DataAnalytics #DataAnalyst #Dashboard #BusinessIntelligence #Codebasics #LearningJourney #EVAnalysis
+Show what the dashboard looks like:- https://github.com/Deepprakash24-ops/Electric-vehicle-dashboard/blob/main/Screenshot%202026-05-04%20182059.png
